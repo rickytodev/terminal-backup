@@ -2,8 +2,6 @@
 
 Esta guía te muestra cómo crear una función en PowerShell para hacer una copia de seguridad automática de la configuración de la Terminal de Windows, evitando así perder tus preferencias personalizadas.
 
-## Vista previa
-
 ![Captura de pantalla](https://github.com/user-attachments/assets/7baa9452-dd52-4cab-850c-66565103fe49)
 
 ## Pasos para agregar esta función
