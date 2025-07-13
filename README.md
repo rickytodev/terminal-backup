@@ -77,7 +77,3 @@ terminal-backup
 ```
 
 Esto creará una carpeta con la fecha actual y guardará una copia del archivo `settings.json` con la hora exacta.
-
-## Resumen
-
-Con esta función podrás mantener múltiples copias de seguridad ordenadas por fecha y hora para restaurar tu configuración de Terminal de Windows cuando lo necesites.
